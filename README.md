@@ -1,7 +1,7 @@
 # activity
 Import the database file soding.sql with the following details: Database Name: "activity" Username: "root" Host: "localhost" Password: ""
 
-Download and copy the folder soding to the directory that contains xamp
+Download and copy the folder file to the directory that contains xamp
 
 Run the file.
 
